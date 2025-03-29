@@ -2,6 +2,9 @@
 
 - 🔭 Atualmente trabalho com Suporte de Software
 - 🌱 Estou estudando atualmente sobre APIs REST e Desenvolvimento Back-end
+- 💻 Busco me especializar com API's e desenvolvimento Full Stack
+
+
 
 <div>
   <a href="https://github.com/asafebernardo">
@@ -18,8 +21,6 @@
   <img aligh="center" alt="asafe-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
   <img aligh="center" alt="asafe-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg">
 </div>
-
-
 
 ##
 
