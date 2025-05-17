@@ -1,6 +1,6 @@
 ## Olá me chamo Asafe Bernardo 👋
 
-- 🔭 Atualmente trabalho com Suporte de Software
+- 🔭 Atualmente trabalho como QA do IXC ACS
 - 🌱 Estou estudando atualmente sobre APIs REST e Desenvolvimento Back-end
 - 💻 Busco me especializar com API's e desenvolvimento Full Stack
 
