@@ -4,14 +4,6 @@
 - 🌱 Estou estudando atualmente sobre APIs REST e Desenvolvimento Back-end
 - 💻 Busco me especializar com API's e desenvolvimento Full Stack
 
-
-
-<div>
-  <a href="https://github.com/asafebernardo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asafebernardo&show_icons=true&theme=dark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asafebernardo&layout=compact&theme=dark">
-</div>
-
 <div style="display inline_block"><br>
   <img aligh="center" alt="asafe-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
   <img aligh="center" alt="asafe-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
